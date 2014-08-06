@@ -37,3 +37,10 @@ Reading device list: .No handlers could be found for logger "paramiko.hostkeys"
 10.0.255.4 - completed
 abc,IP Address Error - ignored
 ```
+
+### TO DO
+
+- Error checking on connection setup
+- More graceful exit - sleep is disconnecting before commit has finished
+- Check for "commit complete" before moving on
+- Add debug mode
