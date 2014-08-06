@@ -1,7 +1,7 @@
 jnetconf-bootstrap
 ==============
 
-Programatically enable netconf over SSH on Junos devices
+Programatically enable netconf over SSH on Junos devices.  Prepares network infrastructure for the use of PyEZ etc. 
 
 ### Requirements
 
